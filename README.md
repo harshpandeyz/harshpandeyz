@@ -226,30 +226,6 @@
   <img src="https://img.shields.io/badge/AMCAT%20Automata-95%2F100-FF512F?style=for-the-badge" alt="AMCAT Automata 95/100"/>
 </p>
 
-<h2 align="center">💼 EXPERIENCE</h2>
-
-<p align="center">
-  <b>Web Development Intern — CodSoft</b><br>
-  Virtual · Project-Based Internship<br>
-  June 2025 – July 2025
-</p>
-
-<p align="center">
-  Worked on practical web-development projects involving frontend
-  development, REST APIs, application logic, testing and deployment.
-</p>
-
-<h2 align="center">🎓 EDUCATION</h2>
-
-<p align="center">
-  <b>B.Tech — Information Technology</b><br>
-  MIT-ADT University, Pune<br><br>
-
-<b>Minor — Quantum Computing</b><br>
-2023 – 2027 · CGPA 8.38
-
-</p>
-
 <h2 align="center">🔭 CURRENTLY EXPLORING</h2>
 
 <p align="center">
@@ -259,12 +235,24 @@
 <h2 align="center">📊 GITHUB ACTIVITY</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshpandeyz&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=2575FC&text_color=6B7280&icon_color=FF512F" height="175" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandeyz&layout=compact&hide_border=true&bg_color=00000000&title_color=6A11CB&text_color=6B7280" height="175" alt="Top languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=harshpandeyz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=2575FC&text_color=6B7280&icon_color=FF512F"
+    height="180"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandeyz&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6A11CB&text_color=6B7280"
+    height="180"
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshpandeyz&hide_border=true&background=00000000&ring=FF512F&fire=F9D423&currStreakLabel=2575FC&sideLabels=6A11CB&dates=6B7280" alt="GitHub streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=harshpandeyz&hide_border=true&background=00000000&ring=FF512F&fire=F9D423&currStreakLabel=2575FC&sideLabels=6A11CB&dates=6B7280"
+    height="180"
+    alt="GitHub contribution streak"
+  />
 </p>
 
 <h2 align="center">🐍 CONTRIBUTION JOURNEY</h2>
@@ -274,8 +262,13 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshpandeyz/harshpandeyz/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img
+    src="https://raw.githubusercontent.com/harshpandeyz/harshpandeyz/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
 </p>
+---
 
 <h2 align="center">🌐 LET'S CONNECT</h2>
 
