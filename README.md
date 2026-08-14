@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=260&section=header&text=HARSH%20PANDEY&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%2FML%20%7C%20CLOUD%20%7C%20DEVOPS&descAlignY=61&descSize=17&animation=twinkling" alt="Harsh Pandey header"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2575FC&center=true&vCenter=true&width=850&lines=Building+software+end+to+end.;Turning+ideas+into+working+systems.;AI+%7C+Full-Stack+%7C+Cloud+%7C+DevOps;Exploring+the+future+with+Quantum+Computing." alt="Typing introduction"/>
 </p>
