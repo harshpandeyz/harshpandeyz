@@ -5,19 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2575FC&center=true&vCenter=true&width=850&lines=Building+software+end+to+end.;Turning+ideas+into+working+systems.;AI+%7C+Full-Stack+%7C+Cloud+%7C+DevOps;Exploring+the+future+with+Quantum+Computing." alt="Typing introduction"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshpandeyz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://harshporfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshpandeyz&label=Profile%20Views&color=2575FC&style=for-the-badge" alt="Profile views"/>
-</p>
-
 <h2 align="center">✦ WHO I AM ✦</h2>
 
 <p align="center">
