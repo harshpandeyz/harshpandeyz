@@ -1,476 +1,260 @@
-<!-- ========================================================= -->
-<!--                       ANIMATED HERO                        -->
-<!-- ========================================================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=260&section=header&text=HARSH%20PANDEY&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%2FML%20%7C%20CLOUD%20%7C%20DEVOPS&descAlignY=61&descSize=17&animation=twinkling"/>
-</p>
+<a href="https://github.com/harshpandeyz">
+  <img src="https://raw.githubusercontent.com/harshpandeyz/harshpandeyz/main/assets/github-header.svg" alt="Harsh Pandey — Software Engineering, Full-Stack, AI/ML, Cloud and DevOps" width="100%"/>
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2575FC&center=true&vCenter=true&width=850&lines=Building+software+end+to+end.;Turning+ideas+into+working+systems.;AI+%7C+Full-Stack+%7C+Cloud+%7C+DevOps;Exploring+the+future+with+Quantum+Computing." />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshpandeyz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://harshporfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="mailto:harshap17058@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/harshpandeyz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://harshporfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:harshap17058@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=harshpandeyz&style=flat-square&color=2575FC&label=PROFILE+VIEWS"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshpandeyz&label=Profile%20Views&color=2575FC&style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                        INTRO                              -->
-<!-- ========================================================= -->
+## The idea behind the work
 
-<h2 align="center">✦ WHO I AM ✦</h2>
+I like software most when the boundary between disciplines disappears.
 
-<p align="center">
-  <b>B.Tech Information Technology @ MIT-ADT University, Pune</b><br>
-  <b>Minor in Quantum Computing</b>
-</p>
+A useful product is rarely *just* a frontend, an API, a model, or a deployment. It is the conversation between all of them — the interface a person touches, the services that make decisions, the data that gives those decisions context, and the infrastructure that keeps the whole system alive.
 
-<p align="center">
-  I enjoy building software end to end and understanding how the pieces
-  of a system work together — from interfaces and APIs to databases,
-  AI services, deployment and automation.
-</p>
+That is the kind of work I enjoy building.
 
-<p align="center">
-  My work spans <b>Full-Stack Development</b>, <b>AI/ML</b>,
-  <b>Computer Vision</b>, <b>Cloud</b>, <b>DevOps</b>,
-  <b>Mobile Development</b> and <b>Emerging Technologies</b>.
-</p>
+I am a **B.Tech Information Technology student at MIT-ADT University, Pune**, with a **minor in Quantum Computing**. My projects move across **frontend engineering, backend systems, AI/ML, computer vision, databases, cloud, DevOps, mobile development and emerging technologies**.
+
+I am especially interested in understanding systems end to end: not only *how to make something work*, but *why it works, where it can fail, and how the pieces can be made to work together reliably*.
 
 ---
 
-<!-- ========================================================= -->
-<!--                    TECHNOLOGY RAINBOW                     -->
-<!-- ========================================================= -->
-
-<h2 align="center">🌈 TECHNOLOGY RAINBOW</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,kotlin,swift,react,nodejs,spring,fastapi,html,css,mysql,postgres,mongodb,firebase,docker,aws,jenkins,git,github" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF512F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-2575FC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Jenkins%20%7C%20CI%2FCD-2496ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Quantum%20Computing-6A11CB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Blockchain-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                    ENGINEERING MAP                         -->
-<!-- ========================================================= -->
-
-<h2 align="center">🧩 ENGINEERING MAP</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 🎨 Frontend
-
-React  
-JavaScript  
-TypeScript  
-HTML5  
-CSS3
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️ Backend
-
-Java  
-Spring Boot  
-Node.js  
-Express  
-FastAPI
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠 AI / ML
-
-Machine Learning  
-Computer Vision  
-YOLOv8  
-RAG  
-FAISS
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️ Cloud / DevOps
-
-AWS  
-Docker  
-Jenkins  
-CI/CD  
-Git
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🗄️ Data
-
-MySQL  
-PostgreSQL  
-MongoDB  
-Firebase
-
-</td>
-
-<td align="center">
-
-### 📱 Mobile
-
-Android  
-Kotlin  
-Swift  
-UIKit
-
-</td>
-
-<td align="center">
-
-### 🔗 Emerging
-
-Blockchain  
-Ethereum  
-Solidity  
-Web3.py
-
-</td>
-
-<td align="center">
-
-### 🔬 Quantum
-
-Quantum Computing  
-Quantum Algorithms  
-QML
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                       -->
-<!-- ========================================================= -->
-
-<h2 align="center">🚀 FEATURED WORK</h2>
-
-<p align="center">
-  <i>A few systems I've built and worked on.</i>
-</p>
-
-<br>
+## A map of what I build
 
 <table>
 <tr>
+<td width="25%" valign="top">
 
-<td width="50%" valign="top">
+### Frontend
 
-<h3>🛡️ Intelligent Mob Surveillance System</h3>
+**React · JavaScript · TypeScript**  
+HTML5 · CSS3
 
-AI-powered CCTV platform for real-time crowd and mob detection,
-secure evidence handling and blockchain-backed integrity verification.
-
-<br>
-
-<b>Stack</b>
-
-`YOLOv8` · `OpenCV` · `FastAPI`  
-`MongoDB` · `Docker` · `Jenkins`  
-`Solidity` · `Ethereum` · `Web3.py`
-
-<br><br>
-
-<b>Built around</b>
-
-- Real-time computer vision
-- AES-256 evidence encryption
-- SHA-256 integrity hashing
-- Smart-contract verification
-- Dockerized services
-- Jenkins CI/CD
-- Docker Compose deployment
-
-<br>
-
-<a href="https://github.com/harshpandeyz/intelligent-surveillance-system-v2">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2575FC?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+I build interfaces as part of the system — connected to real APIs, state, data and user flows rather than treated as a separate layer.
 
 </td>
+<td width="25%" valign="top">
 
-<td width="50%" valign="top">
+### Backend
 
-<h3>🧬 QuantumMind AI</h3>
+**Java · Spring Boot · Node.js**  
+Express · FastAPI · REST · JWT · RBAC
 
-Multimodal AI platform for quantum research combining RAG,
-semantic search, conversational AI and visual analysis.
-
-<br>
-
-<b>Stack</b>
-
-`React` · `Spring Boot` · `FastAPI`  
-`PostgreSQL` · `FAISS` · `Docker`
-
-<br><br>
-
-<b>Built around</b>
-
-- Retrieval-Augmented Generation
-- Semantic vector search
-- Real-time AI streaming
-- JWT authentication
-- Role-based access
-- Vision AI
-- Multi-service architecture
-
-<br>
-
-<a href="https://github.com/harshpandeyz/QuantumMind-AI">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-6A11CB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+I work on APIs, application architecture, authentication, authorization, business logic and service integration.
 
 </td>
+<td width="25%" valign="top">
 
+### AI / ML
+
+**Machine Learning · Deep Learning**  
+YOLOv8 · OpenCV · RAG · FAISS · MediaPipe
+
+I am interested in turning models into usable systems — inference, retrieval, APIs, storage and product integration.
+
+</td>
+<td width="25%" valign="top">
+
+### Cloud / DevOps
+
+**AWS · Docker · Jenkins · CI/CD**  
+Docker Compose · Git · GitHub
+
+I care about the journey after `localhost`: reproducible builds, services, deployment and operational reliability.
+
+</td>
 </tr>
-
 <tr>
+<td valign="top">
 
-<td width="50%" valign="top">
+### Data
 
-<h3>🎯 SkillMatch</h3>
-
-Full-stack learning recommendation platform that connects
-existing skills with target roles and learning paths.
-
-<br>
-
-<b>Stack</b>
-
-`Node.js` · `Express.js` · `MySQL` · `EJS`
-
-<br><br>
-
-<b>Built around</b>
-
-- MVC architecture
-- Authentication
-- RBAC
-- Recommendation logic
-- REST APIs
-- CRUD operations
-
-<br>
-
-<a href="https://github.com/harshpandeyz/SkillMatch">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-00A67E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**MySQL · PostgreSQL · MongoDB**  
+Firebase · Database Design · CRUD
 
 </td>
+<td valign="top">
 
-<td width="50%" valign="top">
+### Mobile
 
-<h3>🧠 BrainMatch</h3>
+**Android · Kotlin · Swift · UIKit**
 
-Native iOS memory-matching game developed with
-Swift and UIKit.
-
-<br>
-
-<b>Stack</b>
-
-`Swift` · `UIKit`
-
-<br><br>
-
-<b>Built around</b>
-
-- Native iOS development
-- Interactive gameplay
-- Card animations
-- Game-state handling
-- UserDefaults persistence
-
-<br>
-
-<a href="https://github.com/harshpandeyz/brainmatch-game">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-F05138?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+A native iOS project taught me that good engineering is also about the details users actually experience.
 
 </td>
+<td valign="top">
 
+### Emerging Tech
+
+**Blockchain · Ethereum · Solidity · Web3.py**
+
+I explore where software systems meet new technical primitives and new constraints.
+
+</td>
+<td valign="top">
+
+### Quantum
+
+**Quantum Computing**
+
+My academic minor keeps a window open toward a different model of computation and the ideas behind it.
+
+</td>
 </tr>
 </table>
 
----
-
-<!-- ========================================================= -->
-<!--                     ACHIEVEMENTS                           -->
-<!-- ========================================================= -->
-
-<h2 align="center">🏆 HIGHLIGHTS</h2>
+### Core stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆%20Best%20Idea-IdeaSpark%202K24-FFB000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏅%20BV%20TechFusion-National%20Level-2575FC?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AMCAT%20Computer%20Science-99%2F100-00A67E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AMCAT%20Automata%20Fix-100%2F100-6A11CB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AMCAT%20Automata-95%2F100-FF512F?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,kotlin,swift,react,nodejs,spring,fastapi,html,css,mysql,postgres,mongodb,firebase,docker,aws,jenkins,git,github&perline=11" alt="Harsh Pandey technology stack"/>
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                      EXPERIENCE                            -->
-<!-- ========================================================= -->
+## Projects that tell the story
 
-<h2 align="center">💼 EXPERIENCE</h2>
+### 01 — Intelligent Mob Surveillance System
 
-<p align="center">
+**When a camera sees a crowd, the problem is not finished when a bounding box appears.** The system has to turn a visual event into evidence that can be processed, stored, secured and later trusted.
 
-<b>Web Development Intern — CodSoft</b><br>
-Virtual · Project-Based Internship<br>
-June 2025 – July 2025
+I built an AI-powered CCTV system around **YOLOv8 and OpenCV**, exposed the detection pipeline through **FastAPI**, and used **MongoDB** for detection data and metadata. Recorded evidence is protected with **AES-256 encryption** and **SHA-256 hashing**, while the resulting integrity information can be anchored to an **Ethereum smart contract** using Solidity and Web3.py.
 
-</p>
+The system is containerized with **Docker/Docker Compose** and uses **Jenkins CI/CD**, bringing computer vision, backend engineering, security, blockchain and deployment into one project.
 
-<p align="center">
-Worked on practical web-development projects involving frontend
-development, REST APIs, application logic, testing and deployment.
+<p>
+<a href="https://github.com/harshpandeyz/intelligent-surveillance-system-v2"><img src="https://img.shields.io/badge/Explore%20the%20system-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       EDUCATION                            -->
-<!-- ========================================================= -->
+### 02 — QuantumMind AI
 
-<h2 align="center">🎓 EDUCATION</h2>
+**The interesting part of an AI application is not simply generating an answer; it is giving the answer a reason to be grounded.**
 
-<p align="center">
+QuantumMind AI is a multi-service application built with **React/Vite, Spring Boot, FastAPI, PostgreSQL and Docker**. It explores **retrieval-augmented generation**, using vector similarity search with **FAISS** so responses can be grounded in stored content rather than relying solely on a model's internal knowledge.
 
-<b>B.Tech — Information Technology</b><br>
-MIT-ADT University, Pune<br><br>
+The architecture separates the application backend from the AI-facing service and connects them through APIs, while the frontend can consume streamed responses using **Server-Sent Events**.
 
-<b>Minor — Quantum Computing</b><br>
-2023 – 2027 · CGPA 8.38
-
+<p>
+<a href="https://github.com/harshpandeyz/QuantumMind-AI"><img src="https://img.shields.io/badge/Explore%20QuantumMind%20AI-6A11CB?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                   CURRENTLY EXPLORING                      -->
-<!-- ========================================================= -->
+### 03 — SkillMatch
 
-<h2 align="center">🔭 CURRENTLY EXPLORING</h2>
+**A learning platform becomes more useful when it answers the next question, not just the current one: “What should I learn next?”**
+
+SkillMatch is a full-stack learning-recommendation application built with **Node.js, Express, MySQL and EJS**. It uses an MVC structure, authentication and role-based access control, while its recommendation logic scores candidate skills against categories, target roles and difficulty to produce a progressive learning path.
+
+The project also includes REST APIs, CRUD operations, rate limiting and a health-check endpoint — small details that turn an academic application into a more complete software system.
+
+---
+
+### 04 — BrainMatch
+
+**Sometimes the best engineering lesson comes from building something small enough to understand completely.**
+
+BrainMatch is a native iOS memory-matching game built with **Swift and UIKit**, including card-flip animations, game logic, an in-app rules screen and persistent state through `UserDefaults`.
+
+It is a compact project, but it represents an important part of the journey: learning a new ecosystem and taking an idea from interaction design to a working native application.
+
+---
+
+## What I am learning now
+
+The direction is becoming clearer: build broader systems without losing depth in the individual layers.
+
+```text
+Frontend        →  React / TypeScript / product interfaces
+Backend         →  Java / Spring Boot / Node.js / FastAPI
+AI              →  RAG / vector search / computer vision / model integration
+Cloud           →  AWS / deployment / service architecture
+DevOps          →  Docker / CI/CD / reproducible environments
+Systems         →  APIs / databases / security / architecture
+Quantum         →  quantum computing fundamentals and algorithms
+```
+
+I am less interested in collecting technologies than in learning **when a technology is the right tool, what trade-offs it introduces, and how it behaves as part of a larger system**.
+
+---
+
+## A few milestones
+
+| Year | Milestone |
+|:---:|---|
+| **2023** | Started B.Tech in Information Technology at MIT-ADT University, Pune. |
+| **2024** | Won **Best Idea Award** at IdeaSpark 2K24 and participated in the internal Smart India Hackathon. |
+| **2025** | Completed a project-based web development internship with CodSoft and continued expanding across backend, frontend and deployment. |
+| **2026** | Presented the Intelligent Mob Surveillance System at **BV TechFusion 2026**, a national-level project competition. |
+| **Now** | Building across full-stack engineering, AI/ML, cloud, DevOps and exploring quantum computing. |
+
+---
+
+## Proof matters more than a list
+
+**Selected academic and technical highlights**
+
+- **Best Idea Award — IdeaSpark 2K24**, MIT-ADT University
+- **BV TechFusion 2026 — National Level Project Competition**, Intelligent Mob Surveillance System
+- **Smart India Hackathon — Internal SIH 2024**, Certificate of Appreciation
+- **AMCAT Computer Science — 99/100**
+- **AMCAT Automata Fix — 100/100**
+- **AMCAT Automata — 95/100**
+- **MongoDB Java Developer Path**
+- **Networking Basics — Cisco Networking Academy**
+- **Tableau Fundamentals — Salesforce/Tableau**
+- **Python Training — IIT Bombay / Spoken Tutorial**
+
+---
+
+## GitHub, in motion
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=700&color=6A11CB&center=true&vCenter=true&width=700&lines=AI+Systems;RAG+%26+Vector+Search;Computer+Vision;Cloud+Architecture;DevOps+%26+CI%2FCD;System+Design;Quantum+Computing"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshpandeyz&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=00000000&title_color=2575FC&text_color=6B7280&icon_color=FF512F" height="180" alt="Harsh Pandey GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandeyz&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=6A11CB&text_color=6B7280" height="180" alt="Harsh Pandey top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshpandeyz&hide_border=true&background=00000000&ring=2575FC&fire=FF512F&currStreakLabel=6A11CB&sideLabels=2575FC&dates=6B7280" alt="Harsh Pandey GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshpandeyz/harshpandeyz/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="90%"/>
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     GITHUB STATS                           -->
-<!-- ========================================================= -->
+## Outside the code
 
-<h2 align="center">📊 GITHUB ACTIVITY</h2>
+There is a simple principle behind the portfolio: **learn something new, make something tangible, understand what broke, and make the next version better.**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshpandeyz&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=2575FC&text_color=6B7280&icon_color=FF512F" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandeyz&layout=compact&hide_border=true&bg_color=00000000&title_color=6A11CB&text_color=6B7280" height="175"/>
-</p>
+That has led from web development to backend systems, from backend systems to AI, from AI to deployment, from deployment to security and blockchain, and from conventional computing toward an academic exploration of quantum computing.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshpandeyz&hide_border=true&background=00000000&ring=FF512F&fire=F9D423&currStreakLabel=2575FC&sideLabels=6A11CB&dates=6B7280"/>
-</p>
+The stack changes. The habit stays the same.
 
 ---
 
-<!-- ========================================================= -->
-<!--                     CONTRIBUTIONS                          -->
-<!-- ========================================================= -->
+<div align="center">
 
-<h2 align="center">🐍 CONTRIBUTION JOURNEY</h2>
+### Build something worth explaining.
 
-<p align="center">
-  <i>Building consistently, one commit at a time.</i>
-</p>
+<a href="https://harshporfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-2575FC?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/harshpandeyz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:harshap17058@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshpandeyz/harshpandeyz/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=120&section=footer" alt="footer" width="100%"/>
 
-<!-- ========================================================= -->
-<!--                         CONTACT                            -->
-<!-- ========================================================= -->
-
-<h2 align="center">🌐 LET'S CONNECT</h2>
-
-<p align="center">
-  <a href="https://github.com/harshpandeyz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harshpandeyz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://harshporfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF512F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="mailto:harshap17058@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6A11CB?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Build · Break · Understand · Improve</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=140&section=footer"/>
-</p>
+</div>
