@@ -236,22 +236,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=harshpandeyz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=2575FC&text_color=6B7280&icon_color=FF512F"
-    height="180"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandeyz&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6A11CB&text_color=6B7280"
-    height="180"
-    alt="Top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=harshpandeyz&hide_border=true&background=00000000&ring=FF512F&fire=F9D423&currStreakLabel=2575FC&sideLabels=6A11CB&dates=6B7280"
-    height="180"
-    alt="GitHub contribution streak"
+    src="./profile/github-activity.svg"
+    alt="GitHub activity snapshot"
+    width="100%"
   />
 </p>
 
@@ -262,11 +249,19 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/harshpandeyz/harshpandeyz/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
+  <a href="https://github.com/harshpandeyz">
+    <img
+      src="https://ghchart.rshah.org/2575FC/harshpandeyz"
+      alt="Harsh Pandey GitHub contribution graph"
+      width="95%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harshpandeyz">
+    <img src="https://img.shields.io/badge/VIEW%20FULL%20ACTIVITY-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View full GitHub activity"/>
+  </a>
 </p>
 ---
 
