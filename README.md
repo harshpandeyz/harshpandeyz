@@ -1,52 +1,15 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║                    HARSH PANDEY                              ║
-║          Animated GitHub Profile / Portfolio README         ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
 <p align="center">
-  <img
-    src="./assets/github-header.svg"
-    alt="Harsh Pandey — Software Engineer"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=260&section=header&text=HARSH%20PANDEY&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%2FML%20%7C%20CLOUD%20%7C%20DEVOPS&descAlignY=61&descSize=17&animation=twinkling" alt="Harsh Pandey header"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2575FC&center=true&vCenter=true&width=850&lines=Building+software+end+to+end.;Turning+ideas+into+working+systems.;AI+%7C+Full-Stack+%7C+Cloud+%7C+DevOps;Exploring+the+future+with+Quantum+Computing." alt="Typing introduction"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/harshpandeyz">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshpandeyz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://harshporfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:harshap17058@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<br>
+<h2 align="center">✦ WHO I AM ✦</h2>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=18&duration=3200&pause=1200&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+software+end+to+end.;Turning+ideas+into+working+systems.;Exploring+AI%2C+cloud%2C+systems+%26+emerging+technology."
-    alt="Animated introduction"
-  />
-</p>
-
-<br>
-
----
-
-## ✦ WHO I AM
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/MIT--ADT%20University-Pune-EC4899?style=flat-square" />
-  <img src="https://img.shields.io/badge/Minor-Quantum%20Computing-06B6D4?style=flat-square" />
+  <b>B.Tech Information Technology @ MIT-ADT University, Pune</b><br>
+  <b>Minor in Quantum Computing</b>
 </p>
 
 <p align="center">
@@ -61,301 +24,206 @@
   <b>Mobile Development</b> and <b>Emerging Technologies</b>.
 </p>
 
-<br>
-
----
-
-# ◈ THE ENGINEERING MAP
-
-<table align="center" width="100%">
-<tr>
-
-<td align="center" width="25%" valign="top">
-
-### ◉ FRONTEND
-
-React  
-JavaScript  
-TypeScript  
-HTML5  
-CSS3
-
-</td>
-
-<td align="center" width="25%" valign="top">
-
-### ◉ BACKEND
-
-Java  
-Spring Boot  
-Node.js  
-Express  
-FastAPI
-
-</td>
-
-<td align="center" width="25%" valign="top">
-
-### ◉ AI / ML
-
-Machine Learning  
-Computer Vision  
-YOLOv8  
-RAG  
-FAISS
-
-</td>
-
-<td align="center" width="25%" valign="top">
-
-### ◉ CLOUD
-
-AWS  
-Docker  
-Jenkins  
-CI/CD  
-Git
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" valign="top">
-
-### ◉ DATA
-
-MySQL  
-PostgreSQL  
-MongoDB  
-Firebase
-
-</td>
-
-<td align="center" valign="top">
-
-### ◉ MOBILE
-
-Android  
-Kotlin  
-Swift  
-UIKit
-
-</td>
-
-<td align="center" valign="top">
-
-### ◉ WEB3
-
-Blockchain  
-Ethereum  
-Solidity  
-Web3.py
-
-</td>
-
-<td align="center" valign="top">
-
-### ◉ QUANTUM
-
-Quantum Computing  
-Quantum Algorithms  
-QML
-
-</td>
-
-</tr>
-</table>
-
-<br>
+<h2 align="center">🌈 TECHNOLOGY RAINBOW</h2>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,kotlin,swift,react,nodejs,spring,fastapi,html,css,mysql,postgres,mongodb,firebase,docker,aws,jenkins,git,github"
-    alt="Technology stack"
-  />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,kotlin,swift,react,nodejs,spring,fastapi,html,css,mysql,postgres,mongodb,firebase,docker,aws,jenkins,git,github" alt="Technology stack"/>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF512F?style=for-the-badge" alt="AI / ML"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-8E44AD?style=for-the-badge" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/FAISS-2575FC?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge" alt="YOLOv8"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Jenkins%20%7C%20CI%2FCD-2496ED?style=for-the-badge" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/Quantum%20Computing-6A11CB?style=for-the-badge" alt="Quantum Computing"/>
+  <img src="https://img.shields.io/badge/Blockchain-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+</p>
 
-# ◈ SELECTED WORK
+<h2 align="center">🧩 ENGINEERING MAP</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <h3>🎨 Frontend</h3>
+      <p>React<br>JavaScript<br>TypeScript<br>HTML5<br>CSS3</p>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>⚙️ Backend</h3>
+      <p>Java<br>Spring Boot<br>Node.js<br>Express<br>FastAPI</p>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>🧠 AI / ML</h3>
+      <p>Machine Learning<br>Computer Vision<br>YOLOv8<br>RAG<br>FAISS</p>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h3>☁️ Cloud / DevOps</h3>
+      <p>AWS<br>Docker<br>Jenkins<br>CI/CD<br>Git</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3>🗄️ Data</h3>
+      <p>MySQL<br>PostgreSQL<br>MongoDB<br>Firebase</p>
+    </td>
+    <td align="center" valign="top">
+      <h3>📱 Mobile</h3>
+      <p>Android<br>Kotlin<br>Swift<br>UIKit</p>
+    </td>
+    <td align="center" valign="top">
+      <h3>🔗 Emerging</h3>
+      <p>Blockchain<br>Ethereum<br>Solidity<br>Web3.py</p>
+    </td>
+    <td align="center" valign="top">
+      <h3>🔬 Quantum</h3>
+      <p>Quantum Computing<br>Quantum Algorithms<br>QML</p>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">🚀 FEATURED WORK</h2>
 
 <p align="center">
   <i>A few systems I've built and worked on.</i>
 </p>
 
-<br>
-
 <table width="100%">
-<tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Intelligent Mob Surveillance System</h3>
+      <p>AI-powered CCTV platform for real-time crowd and mob detection, secure evidence handling and blockchain-backed integrity verification.</p>
 
-<td width="50%" valign="top">
+<b>Stack</b>
 
-## 🛡️ Intelligent Mob Surveillance System
+  <p>
+    <code>YOLOv8</code> · <code>OpenCV</code> · <code>FastAPI</code><br>
+    <code>MongoDB</code> · <code>Docker</code> · <code>Jenkins</code><br>
+    <code>Solidity</code> · <code>Ethereum</code> · <code>Web3.py</code>
+  </p>
 
-AI-powered CCTV platform for real-time crowd and mob detection, secure evidence handling and blockchain-backed integrity verification.
+<b>Built around</b>
 
-**Built around**
+  <p>
+    • Real-time computer vision<br>
+    • AES-256 evidence encryption<br>
+    • SHA-256 integrity hashing<br>
+    • Smart-contract verification<br>
+    • Dockerized services<br>
+    • Jenkins CI/CD<br>
+    • Docker Compose deployment
+  </p>
 
-- Real-time computer vision
-- AES-256 evidence encryption
-- SHA-256 integrity hashing
-- Smart-contract verification
-- Dockerized services
-- Jenkins CI/CD
-- Docker Compose deployment
-
-**Stack**
-
-`YOLOv8` `OpenCV` `FastAPI`  
-`MongoDB` `Docker` `Jenkins`  
-`Solidity` `Ethereum` `Web3.py`
-
-<br>
-
-<a href="https://github.com/harshpandeyz/intelligent-surveillance-system-v2">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://github.com/harshpandeyz/intelligent-surveillance-system-v2">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2575FC?style=for-the-badge&logo=github&logoColor=white" alt="Explore Intelligent Mob Surveillance System"/>
+  </a>
 </td>
 
 <td width="50%" valign="top">
+  <h3>🧬 QuantumMind AI</h3>
+  <p>Multimodal AI platform for quantum research combining RAG, semantic search, conversational AI and visual analysis.</p>
 
-## 🧬 QuantumMind AI
+<b>Stack</b>
 
-Multimodal AI platform for quantum research combining RAG, semantic search, conversational AI and visual analysis.
+  <p>
+    <code>React</code> · <code>Spring Boot</code> · <code>FastAPI</code><br>
+    <code>PostgreSQL</code> · <code>FAISS</code> · <code>Docker</code>
+  </p>
 
-**Built around**
+<b>Built around</b>
 
-- Retrieval-Augmented Generation
-- Semantic vector search
-- Real-time AI streaming
-- JWT authentication
-- Role-based access
-- Vision AI
-- Multi-service architecture
+  <p>
+    • Retrieval-Augmented Generation<br>
+    • Semantic vector search<br>
+    • Real-time AI streaming<br>
+    • JWT authentication<br>
+    • Role-based access<br>
+    • Vision AI<br>
+    • Multi-service architecture
+  </p>
 
-**Stack**
-
-`React` `Spring Boot` `FastAPI`  
-`PostgreSQL` `FAISS` `Docker`
-
-<br>
-
-<a href="https://github.com/harshpandeyz/QuantumMind-AI">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://github.com/harshpandeyz/QuantumMind-AI">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="Explore QuantumMind AI"/>
+  </a>
 </td>
 
-</tr>
+  </tr>
 
-<tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 SkillMatch</h3>
+      <p>Full-stack learning recommendation platform that connects existing skills with target roles and learning paths.</p>
 
-<td width="50%" valign="top">
+<b>Stack</b>
 
-## 🎯 SkillMatch
+  <p><code>Node.js</code> · <code>Express.js</code> · <code>MySQL</code> · <code>EJS</code></p>
 
-Full-stack learning recommendation platform that connects existing skills with target roles and learning paths.
+<b>Built around</b>
 
-**Built around**
+  <p>
+    • MVC architecture<br>
+    • Authentication<br>
+    • RBAC<br>
+    • Recommendation logic<br>
+    • REST APIs<br>
+    • CRUD operations
+  </p>
 
-- MVC architecture
-- Authentication
-- RBAC
-- Recommendation logic
-- REST APIs
-- CRUD operations
-
-**Stack**
-
-`Node.js` `Express.js` `MySQL` `EJS`
-
-<br>
-
-<a href="https://github.com/harshpandeyz/SkillMatch">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://github.com/harshpandeyz/SkillMatch">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-00A67E?style=for-the-badge&logo=github&logoColor=white" alt="Explore SkillMatch"/>
+  </a>
 </td>
 
 <td width="50%" valign="top">
+  <h3>🧠 BrainMatch</h3>
+  <p>Native iOS memory-matching game developed with Swift and UIKit.</p>
 
-## 🧠 BrainMatch
+<b>Stack</b>
 
-Native iOS memory-matching game developed with Swift and UIKit.
+  <p><code>Swift</code> · <code>UIKit</code></p>
 
-**Built around**
+<b>Built around</b>
 
-- Native iOS development
-- Interactive gameplay
-- Card animations
-- Game-state handling
-- UserDefaults persistence
+  <p>
+    • Native iOS development<br>
+    • Interactive gameplay<br>
+    • Card animations<br>
+    • Game-state handling<br>
+    • UserDefaults persistence
+  </p>
 
-**Stack**
-
-`Swift` `UIKit`
-
-<br>
-
-<a href="https://github.com/harshpandeyz/brainmatch-game">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-F05138?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://github.com/harshpandeyz/brainmatch-game">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-F05138?style=for-the-badge&logo=github&logoColor=white" alt="Explore BrainMatch"/>
+  </a>
 </td>
 
-</tr>
+  </tr>
 </table>
 
-<br>
-
----
-
-# ◈ HIGHLIGHTS
+<h2 align="center">🏆 HIGHLIGHTS</h2>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Best%20Idea-IdeaSpark%202K24-F59E0B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BV%20TechFusion-National%20Level-7C3AED?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/🏆%20Best%20Idea-IdeaSpark%202K24-FFB000?style=for-the-badge" alt="Best Idea - IdeaSpark 2K24"/>
+  <img src="https://img.shields.io/badge/🏅%20BV%20TechFusion-National%20Level-2575FC?style=for-the-badge" alt="BV TechFusion - National Level"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/AMCAT%20Computer%20Science-99%2F100-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AMCAT%20Automata%20Fix-100%2F100-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AMCAT%20Automata-95%2F100-F97316?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/AMCAT%20Computer%20Science-99%2F100-00A67E?style=for-the-badge" alt="AMCAT Computer Science 99/100"/>
+  <img src="https://img.shields.io/badge/AMCAT%20Automata%20Fix-100%2F100-6A11CB?style=for-the-badge" alt="AMCAT Automata Fix 100/100"/>
+  <img src="https://img.shields.io/badge/AMCAT%20Automata-95%2F100-FF512F?style=for-the-badge" alt="AMCAT Automata 95/100"/>
 </p>
 
-<br>
-
----
-
-# ◈ CURRENTLY EXPLORING
+<h2 align="center">🔭 CURRENTLY EXPLORING</h2>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/AI%20Systems-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-EC4899?style=flat-square" />
-<img src="https://img.shields.io/badge/Vector%20Search-06B6D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer%20Vision-F97316?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloud%20Architecture-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/DevOps%20%26%20CI%2FCD-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/System%20Design-9333EA?style=flat-square" />
-<img src="https://img.shields.io/badge/Quantum%20Computing-DB2777?style=flat-square" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=700&color=6A11CB&center=true&vCenter=true&width=700&lines=AI+Systems;RAG+%26+Vector+Search;Computer+Vision;Cloud+Architecture;DevOps+%26+CI%2FCD;System+Design;Quantum+Computing" alt="Currently exploring"/>
 </p>
 
-<br>
-
----
-
-# ◈ GITHUB ACTIVITY
+<h2 align="center">📊 GITHUB ACTIVITY</h2>
 
 <p align="center">
   <img
@@ -365,69 +233,50 @@ Native iOS memory-matching game developed with Swift and UIKit.
   />
 </p>
 
-<br>
-
----
-
-# ◈ CONTRIBUTION JOURNEY
+<h2 align="center">🐍 CONTRIBUTION JOURNEY</h2>
 
 <p align="center">
   <i>Building consistently, one commit at a time.</i>
 </p>
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/7C3AED/harshpandeyz"
-    alt="Harsh Pandey GitHub contribution graph"
-    width="95%"
-  />
-</p>
-
-<p align="center">
   <a href="https://github.com/harshpandeyz">
     <img
-      src="https://img.shields.io/badge/VIEW%20FULL%20ACTIVITY-18181B?style=for-the-badge&logo=github&logoColor=white"
-      alt="View full GitHub activity"
+      src="https://ghchart.rshah.org/2575FC/harshpandeyz"
+      alt="Harsh Pandey GitHub contribution graph"
+      width="95%"
     />
   </a>
 </p>
 
-<br>
-
+<p align="center">
+  <a href="https://github.com/harshpandeyz">
+    <img src="https://img.shields.io/badge/VIEW%20FULL%20ACTIVITY-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View full GitHub activity"/>
+  </a>
+</p>
 ---
 
-# ◈ LET'S CONNECT
+<h2 align="center">🌐 LET'S CONNECT</h2>
 
 <p align="center">
-
-<a href="https://github.com/harshpandeyz">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/harshpandeyz/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://harshporfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="mailto:harshap17058@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="./assets/github-footer.svg"
-    alt="Animated footer"
-    width="100%"
-  />
+  <a href="https://github.com/harshpandeyz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshpandeyz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://harshporfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF512F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:harshap17058@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6A11CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
   <b>Build · Break · Understand · Improve</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=140&section=footer" alt="Footer"/>
 </p>
