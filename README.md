@@ -1,9 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=260&section=header&text=HARSH%20PANDEY&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%2FML%20%7C%20CLOUD%20%7C%20DEVOPS&descAlignY=61&descSize=17&animation=twinkling" alt="Harsh Pandey header"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2575FC&center=true&vCenter=true&width=850&lines=Building+software+end+to+end.;Turning+ideas+into+working+systems.;AI+%7C+Full-Stack+%7C+Cloud+%7C+DevOps;Exploring+the+future+with+Quantum+Computing." alt="Typing introduction"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=280&section=header&text=HARSH%20PANDEY&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%2FML%20%7C%20CLOUD%20%7C%20DEVOPS&descAlignY=55&descSize=17&animation=twinkling" width="100%" alt="Harsh Pandey header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2575FC&center=true&vCenter=true&width=850&lines=Building+software+end+to+end.;Turning+ideas+into+working+systems.;AI+%7C+Full-Stack+%7C+Cloud+%7C+DevOps;Exploring+the+future+with+Quantum+Computing." alt="Typing introduction"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=harshpandeyz&label=Profile%20Views&color=6A11CB&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/harshpandeyz?label=Followers&style=for-the-badge&color=2575FC&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fharshpandeyz&label=Public%20Repos&query=%24.public_repos&color=FF512F&style=for-the-badge&logo=github&logoColor=white" alt="Public repos"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20,24,30&height=3" width="100%" alt="divider"/>
 
 <h2 align="center">✦ WHO I AM ✦</h2>
 
@@ -24,7 +33,7 @@
   <b>Mobile Development</b> and <b>Emerging Technologies</b>.
 </p>
 
-<h2 align="center">🌈 TECHNOLOGY RAINBOW</h2>
+<h2 align="center">🌈 TECH ARSENAL</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,kotlin,swift,react,nodejs,spring,fastapi,html,css,mysql,postgres,mongodb,firebase,docker,aws,jenkins,git,github" alt="Technology stack"/>
@@ -85,6 +94,8 @@
     </td>
   </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20,24,30&height=3" width="100%" alt="divider"/>
 
 <h2 align="center">🚀 FEATURED WORK</h2>
 
@@ -204,6 +215,29 @@
   </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20,24,30&height=3" width="100%" alt="divider"/>
+
+<h2 align="center">📈 GITHUB ANALYTICS</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=harshpandeyz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2575FC&icon_color=6A11CB&text_color=c9d1d9&ring_color=6A11CB" width="100%" alt="GitHub stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=harshpandeyz&theme=dark&hide_border=true&background=0D1117&stroke=6A11CB&ring=2575FC&fire=FF512F&currStreakLabel=2575FC" width="100%" alt="GitHub streak stats"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandeyz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2575FC&icon_color=6A11CB&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshpandeyz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub trophies"/>
+</p>
+
 <h2 align="center">🏆 HIGHLIGHTS</h2>
 
 <p align="center">
@@ -222,6 +256,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=700&color=6A11CB&center=true&vCenter=true&width=700&lines=AI+Systems;RAG+%26+Vector+Search;Computer+Vision;Cloud+Architecture;DevOps+%26+CI%2FCD;System+Design;Quantum+Computing" alt="Currently exploring"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20,24,30&height=3" width="100%" alt="divider"/>
 
 <h2 align="center">📊 GITHUB ACTIVITY</h2>
 
@@ -254,7 +290,6 @@
     <img src="https://img.shields.io/badge/VIEW%20FULL%20ACTIVITY-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View full GitHub activity"/>
   </a>
 </p>
----
 
 <h2 align="center">🌐 LET'S CONNECT</h2>
 
