@@ -1,19 +1,13 @@
 <div align="center">
 
-# 🌈 `harshpandey`
-### **Code • Create • Experiment • Repeat**
+# `harshpandey`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=800&color=7C3AED&center=true&vCenter=true&width=420&lines=CODE+%2F+CREATE+%2F+EXPERIMENT;AI+%2F+VISION+%2F+SYSTEMS;BUILDING+SOMETHING+INTERESTING..." />
+
+<br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshpandeyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshpandeyz/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://harshporfolio.netlify.app/)
-</div>
-
----
-## ✨ Welcome to my corner of GitHub
-
-**I build software, experiment with ideas, and occasionally create problems
-that require more software to solve.**
-
-`Full-Stack` · `AI/ML` · `Computer Vision` · `Cloud` · `Mobile` · `Quantum`
 
 </div>
 
