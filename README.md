@@ -1,27 +1,13 @@
 <div align="center">
 
 # 🌈 `harshpandeyz`
-
 ### **Code • Create • Experiment • Repeat**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20,24,30&height=8&section=header" width="90%"/>
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/harshpandeyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshpandeyz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://harshporfolio.netlify.app/)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=harshpandeyz&style=for-the-badge&color=8B5CF6&label=PROFILE+VISITS" />
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshpandeyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshpandeyz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://harshporfolio.netlify.app/)
 </div>
 
 ---
-
-<div align="center">
-
 ## ✨ Welcome to my corner of GitHub
 
 **I build software, experiment with ideas, and occasionally create problems
