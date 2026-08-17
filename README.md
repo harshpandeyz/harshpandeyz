@@ -1,6 +1,6 @@
 <div align="center">
 
-# `harshpandey`
+# `harsh pandey`
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=800&color=7C3AED&center=true&vCenter=true&width=420&lines=CODE+%2F+CREATE+%2F+EXPERIMENT;AI+%2F+VISION+%2F+SYSTEMS;BUILDING+SOMETHING+INTERESTING..." />
 
 <br>
