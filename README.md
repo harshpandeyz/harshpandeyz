@@ -296,18 +296,17 @@ Quantum
 </table>
 
 ---
+---
 
-# 📊 `github in pixels`
+# 📊 `github statistics`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshpandeyz&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&title_color=7C3AED&icon_color=F97316&text_color=555555" height="175"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandeyz&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=EC4899&text_color=555555" height="175"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpandeyz&theme=transparent&hide_border=true&ring=7C3AED&fire=F97316&currStreakLabel=7C3AED" />
+<img
+  src="./assets/github-stats.svg"
+  width="100%"
+  alt="Harsh Pandey GitHub statistics"
+/>
 
 </div>
 
@@ -317,18 +316,17 @@ Quantum
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7C3AED/harshpandeyz" width="95%" alt="GitHub contribution graph"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Every%20square-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Every%20commit-F97316?style=flat-square"/>
-<img src="https://img.shields.io/badge/Every%20experiment-10B981?style=flat-square"/>
+<img
+  src="./assets/github-contributions.svg"
+  width="100%"
+  alt="Harsh Pandey GitHub contribution garden"
+/>
 
 </div>
 
 ---
 
+---
 # 🧪 `currently experimenting with`
 
 <div align="center">
