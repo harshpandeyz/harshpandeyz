@@ -10,7 +10,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://harshporfolio.netlify.app/)
 
 </div>
-
 ---
 
 # 🧩 `what's in the box?`
