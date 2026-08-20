@@ -12,7 +12,6 @@
 </div>
 
 
-
 # 🧩 `what's in the box?`
 
 <table>
