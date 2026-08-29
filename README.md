@@ -410,4 +410,5 @@ If something is broken... it's probably mine.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=120&section=footer" width="100%"/>
 
+
 </div>
