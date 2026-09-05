@@ -128,32 +128,34 @@ A real-time CCTV system for crowd/mob detection with secure evidence handling an
 
 <td width="50%" valign="top">
 
-## 🧬 QuantumMind AI
+## 🎼 OrchestraAI
 
-### `RAG × SEARCH × VISION`
+### `AI × ORCHESTRATION × SYSTEMS`
 
-A multimodal AI platform combining retrieval-augmented generation, semantic search, conversational AI and visual analysis.
+An intelligent control plane for AI agents that dynamically orchestrates models, context, memory, tools, and runtime resources to optimize quality, cost, latency, and reliability.
 
 **Built with**
 
-`React` `Spring Boot`
-`FastAPI` `PostgreSQL`
-`FAISS` `Docker`
+`Node.js` `React`
+`JavaScript` `TypeScript`
+`Docker` `PostgreSQL`
+`AI Agents`
 
 **Interesting bits**
 
-🔹 Retrieval-Augmented Generation
-🔹 Semantic vector search
-🔹 AI streaming
-🔹 JWT authentication
-🔹 Role-based access
-🔹 Vision AI
-🔹 Multi-service architecture
+🔹 Intelligent model routing
+🔹 Context and memory management
+🔹 Semantic caching
+🔹 Execution intelligence
+🔹 Cost-aware orchestration
+🔹 Secure isolated execution
+🔹 Runtime telemetry
+🔹 Multi-agent infrastructure
 
 <br>
 
-<a href="https://github.com/harshpandeyz/QuantumMind-AI">
-<img src="https://img.shields.io/badge/🧠%20EXPLORE%20REPO-8B5CF6?style=for-the-badge"/>
+<a href="https://github.com/harshpandeyz/OrchestraAI">
+<img src="https://img.shields.io/badge/🎼%20EXPLORE%20REPO-8B5CF6?style=for-the-badge"/>
 </a>
 
 </td>
@@ -374,41 +376,3 @@ Quantum
 "Okay... now I understand it."
         ↓
 git commit -m "fixed"
-```
-
----
-
-<div align="center">
-
-# 🌟 `keep exploring`
-
-**If something here is useful, fork it.
-If something is interesting, star it.
-If something is broken... it's probably mine.**
-
-<br>
-
-<a href="https://github.com/harshpandeyz?tab=repositories">
-
-<img src="https://img.shields.io/badge/🗂️%20REPOSITORIES-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://harshporfolio.netlify.app/">
-
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/harshpandeyz/">
-
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=120&section=footer" width="100%"/>
-
-
-</div>
