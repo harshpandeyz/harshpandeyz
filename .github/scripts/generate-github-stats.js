@@ -119,6 +119,7 @@ function defs(p) {
 @keyframes pL{0%,100%{opacity:1}50%{opacity:.35}}
 .donut{animation:dR 2s ease-out both;transform-origin:center;transform-box:fill-box}
 @keyframes dR{from{transform:rotate(-90deg) scale(.94);opacity:0}to{transform:rotate(0) scale(1);opacity:1}}
+@media(prefers-reduced-motion:reduce){.bar,.draw,.fade,.pulse,.donut{animation:none}}
 ]]></style>`;
 }
 
@@ -307,6 +308,32 @@ ${rows}
 <text x="620" y="522" fill="${T.faint}" font-family="Inter,Arial" font-size="13">byte-size across newest 100 public repos • leftover grouped beyond top 8 • ${stamp} UTC</text></svg>`;
 }
 
+// 5 — compact activity snapshot for profile/ (live, animated, reduced-motion safe)
+function buildActivity(user, stamp) {
+  const c = user.contributionsCollection;
+  const days = c.contributionCalendar.weeks.flatMap((w) => w.contributionDays);
+  const { current, longest } = getStreaks(days);
+  const total = c.contributionCalendar.totalContributions;
+  // longest-streak window label (approx)
+  let bestStart = '', bestEnd = '';
+  const sorted = [...days].sort((a, b) => a.date.localeCompare(b.date));
+  let runStart = null, bestLen = 0, curLen = 0;
+  sorted.forEach((d) => {
+    if (d.contributionCount > 0) {
+      if (curLen === 0) runStart = d.date;
+      curLen += 1;
+      if (curLen > bestLen) { bestLen = curLen; bestEnd = d.date; bestStart = runStart; }
+    } else curLen = 0;
+  });
+  const range = bestStart ? `${new Date(`${bestStart}T00:00:00Z`).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })} — ${new Date(`${bestEnd}T00:00:00Z`).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}` : stamp;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="290" viewBox="0 0 1100 290" role="img" aria-labelledby="ga-title ga-desc">`
++ `<title id="ga-title">GitHub activity — ${fmt(total)} contributions in the last year</title><desc id="ga-desc">A warm activity snapshot showing yearly contributions, current streak ${current} days, and longest streak ${longest} days.</desc>`
++ `<defs><linearGradient id="ga-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#211C1A"/><stop offset="1" stop-color="#111615"/></linearGradient><linearGradient id="ga-rule" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#D6F06A"/><stop offset=".5" stop-color="#E8B17B"/><stop offset="1" stop-color="#9BAE91"/></linearGradient><pattern id="ga-grain" width="70" height="70" patternUnits="userSpaceOnUse"><circle cx="17" cy="12" r=".6" fill="#F6EAD5" opacity=".16"/><circle cx="55" cy="52" r=".5" fill="#D6F06A" opacity=".12"/></pattern></defs>`
++ `<style><![CDATA[.ga-orbit{animation:gaOrbit 18s linear infinite;transform-origin:550px 145px}@keyframes gaOrbit{to{transform:rotate(360deg)}}.ga-pulse{animation:gaPulse 2.4s ease-in-out infinite}@keyframes gaPulse{0%,100%{opacity:.6}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.ga-orbit,.ga-pulse{animation:none}}]]></style>`
++ `<rect x="1" y="1" width="1098" height="288" rx="22" fill="url(#ga-bg)" stroke="#D8C09E" stroke-opacity=".35" stroke-width="2"/><rect width="1100" height="290" rx="22" fill="url(#ga-grain)" opacity=".5"/><text x="42" y="46" fill="#F6EAD5" font-family="Georgia,serif" font-size="27">GitHub activity</text><text x="1058" y="45" text-anchor="end" fill="#D6F06A" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.7">A YEAR IN MOTION · ${esc(stamp)} UTC</text><path d="M42 70H1058" stroke="#D8C09E" stroke-opacity=".25"/><path d="M366 92V250M734 92V250" stroke="#D8C09E" stroke-opacity=".22"/>`
++ `<g font-family="Arial,sans-serif"><text x="183" y="132" text-anchor="middle" fill="#D6F06A" font-size="42" font-weight="700">${fmt(total)}</text><text x="183" y="166" text-anchor="middle" fill="#BFAF9A" font-size="15" letter-spacing="1.1">CONTRIBUTIONS · 1Y</text><text x="183" y="199" text-anchor="middle" fill="#806C5A" font-size="13">${fmt(c.totalCommitContributions)} commits</text><circle cx="550" cy="145" r="54" fill="none" stroke="#D8664B" stroke-width="8" stroke-dasharray="4 12" class="ga-orbit"/><circle cx="550" cy="145" r="42" fill="none" stroke="#D8C09E" stroke-opacity=".25" stroke-width="2" class="ga-pulse"/><text x="550" y="157" text-anchor="middle" fill="#E8B17B" font-size="38" font-weight="700">${current}</text><text x="550" y="205" text-anchor="middle" fill="#BFAF9A" font-size="15" letter-spacing="1.1">CURRENT STREAK</text><text x="550" y="232" text-anchor="middle" fill="#806C5A" font-size="13">best ${longest} days</text><text x="917" y="132" text-anchor="middle" fill="#9BAE91" font-size="42" font-weight="700">${longest}</text><text x="917" y="166" text-anchor="middle" fill="#BFAF9A" font-size="15" letter-spacing="1.1">LONGEST STREAK</text><text x="917" y="199" text-anchor="middle" fill="#806C5A" font-size="13">${esc(range)}</text></g></svg>`;
+}
+
 async function main() {
   const user = await githubGraphQL(QUERY, { login: USERNAME });
   if (!user) throw new Error(`GitHub user ${USERNAME} not found`);
@@ -317,10 +344,14 @@ async function main() {
   fs.writeFileSync(path.join(out, 'heatmap.svg'), buildHeatmap(user, stamp));
   fs.writeFileSync(path.join(out, 'trends.svg'), buildTrends(user, stamp));
   fs.writeFileSync(path.join(out, 'languages.svg'), buildLanguages(user, stamp));
+  const profileOut = path.join(process.cwd(), 'profile');
+  fs.mkdirSync(profileOut, { recursive: true });
+  fs.writeFileSync(path.join(profileOut, 'github-activity.svg'), buildActivity(user, stamp));
   console.log('Generated assets/analytics/kpi-strip.svg');
   console.log('Generated assets/analytics/heatmap.svg');
   console.log('Generated assets/analytics/trends.svg');
   console.log('Generated assets/analytics/languages.svg');
+  console.log('Generated profile/github-activity.svg');
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

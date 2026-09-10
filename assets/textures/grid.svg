@@ -1,2 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-label="Drafting grid texture">
-<defs><pattern id="draft-grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#D8C09E" stroke-opacity=".12"/><path d="M22 0V44M0 22H44" stroke="#D8C09E" stroke-opacity=".035"/><circle cx="0" cy="0" r="1.4" fill="#D6F06A" fill-opacity=".3"/></pattern></defs><rect width="220" height="220" fill="#171614"/><rect width="220" height="220" fill="url(#draft-grid)"/></svg>
