@@ -17,6 +17,7 @@
 @keyframes pL{0%,100%{opacity:1}50%{opacity:.35}}
 .donut{animation:dR 2s ease-out both;transform-origin:center;transform-box:fill-box}
 @keyframes dR{from{transform:rotate(-90deg) scale(.94);opacity:0}to{transform:rotate(0) scale(1);opacity:1}}
+@media(prefers-reduced-motion:reduce){.bar,.draw,.fade,.pulse,.donut{animation:none}}
 ]]></style><rect width="1600" height="560" rx="26" fill="url(#lng-bg)" stroke="url(#lng-bd)" stroke-width="1.5"/>
 <rect width="1600" height="560" rx="26" fill="url(#lng-gl)"/>
 <rect width="1600" height="560" rx="26" fill="url(#lng-gr)" opacity="0.55"/>
