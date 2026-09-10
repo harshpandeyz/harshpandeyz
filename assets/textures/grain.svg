@@ -1,0 +1,2 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-label="Warm paper grain texture">
+<defs><filter id="grain-noise"><feTurbulence type="fractalNoise" baseFrequency=".82" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="matrix" values="0 0 0 0 .95 0 0 0 0 .88 0 0 0 0 .75 0 0 0 .12 0"/></filter></defs><rect width="220" height="220" fill="#171614"/><rect width="220" height="220" filter="url(#grain-noise)" opacity=".55"/><path d="M12 44h38M154 179h42M73 204h22" stroke="#D6F06A" stroke-opacity=".08"/></svg>
