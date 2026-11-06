@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-label="Harsh Pandey — software engineer">
+  <defs>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050B1D"/>
+      <stop offset="1" stop-color="#0B1633"/>
+    </linearGradient>
+    <radialGradient id="heroGlowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="heroGlowC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="heroGlowV" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="heroGrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#58A6FF" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="heroSignal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3B82F6"/>
+      <stop offset="0.55" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="heroRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="460" rx="18" fill="url(#heroBg)"/>
+  <rect width="1280" height="460" rx="18" fill="url(#heroGrid)"/>
+  <ellipse cx="1040" cy="170" rx="330" ry="230" fill="url(#heroGlowB)"/>
+  <ellipse cx="880" cy="330" rx="260" ry="150" fill="url(#heroGlowC)"/>
+  <ellipse cx="230" cy="430" rx="320" ry="170" fill="url(#heroGlowV)" opacity="0.55"/>
+  <rect x="1" y="1" width="1278" height="458" rx="17" fill="none" stroke="#22304F" stroke-width="1.5"/>
+
+  <!-- top bar -->
+  <circle cx="72" cy="52" r="5" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="90" y="58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="3" fill="#8B98B8">HARSH.PANDEY — DEV</text>
+  <text x="1208" y="58" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="3" fill="#5B6B8C">SYS.01 / IDENTITY</text>
+
+  <!-- name block -->
+  <text x="70" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" letter-spacing="4" fill="#22D3EE">SOFTWARE ENGINEER</text>
+  <text x="68" y="212" font-family="system-ui,-apple-system,'Segoe UI',Inter,sans-serif" font-size="78" font-weight="700" letter-spacing="-2" fill="#F2F6FD">Harsh Pandey</text>
+  <text x="72" y="256" font-family="system-ui,-apple-system,'Segoe UI',Inter,sans-serif" font-size="21" fill="#9FB0D0">Backend systems, modern applications, AI-powered products.</text>
+  <text x="72" y="286" font-family="system-ui,-apple-system,'Segoe UI',Inter,sans-serif" font-size="21" fill="#9FB0D0">I follow problems across the stack until the software is reliable.</text>
+
+  <!-- discipline chips -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="2">
+    <rect x="70" y="316" width="212" height="42" rx="21" fill="#0C1631" stroke="#3B82F6" stroke-opacity="0.65"/>
+    <circle cx="94" cy="337" r="4" fill="#3B82F6"/>
+    <text x="108" y="342" fill="#C7D3EA">BACKEND SYSTEMS</text>
+    <rect x="294" y="316" width="180" height="42" rx="21" fill="#0C1631" stroke="#22D3EE" stroke-opacity="0.65"/>
+    <circle cx="318" cy="337" r="4" fill="#22D3EE"/>
+    <text x="332" y="342" fill="#C7D3EA">AI PRODUCTS</text>
+    <rect x="486" y="316" width="212" height="42" rx="21" fill="#0C1631" stroke="#A78BFA" stroke-opacity="0.65"/>
+    <circle cx="510" cy="337" r="4" fill="#A78BFA"/>
+    <text x="524" y="342" fill="#C7D3EA">FULL-STACK APPS</text>
+  </g>
+
+  <!-- orbit system -->
+  <g fill="none" stroke="#58A6FF">
+    <circle cx="1022" cy="222" r="152" stroke-opacity="0.28"/>
+    <circle cx="1022" cy="222" r="110" stroke-opacity="0.4"/>
+    <circle cx="1022" cy="222" r="68" stroke-opacity="0.55"/>
+  </g>
+  <path d="M872 332 C 930 306, 950 268, 1000 240 S 1108 168, 1168 118"
+        fill="none" stroke="url(#heroSignal)" stroke-width="2.5" stroke-linecap="round"
+        stroke-dasharray="10 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-72" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#8B98B8">
+    <circle cx="1022" cy="70" r="6" fill="#0B1633" stroke="#22D3EE" stroke-width="2"/>
+    <text x="1040" y="75" fill="#7E8DB0">AI</text>
+    <circle cx="1160" cy="170" r="6" fill="#0B1633" stroke="#A78BFA" stroke-width="2"/>
+    <text x="1176" y="175" fill="#7E8DB0">API</text>
+    <circle cx="912" cy="222" r="6" fill="#0B1633" stroke="#3B82F6" stroke-width="2"/>
+    <text x="852" y="227" fill="#7E8DB0">UI</text>
+    <circle cx="1022" cy="332" r="6" fill="#0B1633" stroke="#22D3EE" stroke-width="2"/>
+    <text x="1040" y="337" fill="#7E8DB0">INFRA</text>
+  </g>
+  <circle cx="1022" cy="222" r="10" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1022" cy="222" r="20" fill="none" stroke="#22D3EE" stroke-opacity="0.5">
+    <animate attributeName="r" values="14;26" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.6;0" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- bottom strip -->
+  <rect x="70" y="398" width="1140" height="1.5" fill="url(#heroRule)"/>
+  <text x="70" y="428" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="2" fill="#5B6B8C">PUNE, IN · 18.52°N 73.85°E</text>
+  <text x="1210" y="428" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="2" fill="#8B98B8">BUILDING SYSTEMS THAT REACH PRODUCTION</text>
+  <rect x="1196" y="414" width="10" height="17" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>

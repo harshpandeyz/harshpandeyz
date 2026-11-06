@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-label="ShopSphere — offline-first mobile commerce">
+  <defs>
+    <linearGradient id="ssBg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#070D22"/>
+      <stop offset="1" stop-color="#0A1B38"/>
+    </linearGradient>
+    <radialGradient id="ssGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="960" height="190" rx="14" fill="url(#ssBg)"/>
+  <ellipse cx="790" cy="95" rx="220" ry="110" fill="url(#ssGlow)"/>
+  <rect x="1" y="1" width="958" height="188" rx="13" fill="none" stroke="#22304F" stroke-width="1.5"/>
+  <rect x="1" y="1" width="6" height="188" fill="#3B82F6"/>
+
+  <text x="44" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="4" fill="#58A6FF">03 · MOBILE COMMERCE</text>
+  <text x="42" y="112" font-family="system-ui,-apple-system,'Segoe UI',Inter,sans-serif" font-size="36" font-weight="700" letter-spacing="-0.5" fill="#F2F6FD">ShopSphere</text>
+  <text x="44" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="1" fill="#8B98B8">React Native · Expo · TypeScript · on-device store</text>
+
+  <!-- storefront grid + orbit motif -->
+  <g>
+    <circle cx="800" cy="95" r="58" fill="none" stroke="#3B82F6" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="8 7">
+      <animate attributeName="stroke-dashoffset" from="0" to="-60" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="762" y="57" width="76" height="76" rx="10" fill="#0C1631" stroke="#58A6FF" stroke-width="1.5"/>
+    <line x1="762" y1="82" x2="838" y2="82" stroke="#22304F" stroke-width="1.5"/>
+    <line x1="788" y1="57" x2="788" y2="133" stroke="#22304F" stroke-width="1.5"/>
+    <line x1="762" y1="108" x2="838" y2="108" stroke="#22304F" stroke-width="1.5"/>
+    <rect x="767" y="62" width="16" height="14" rx="3" fill="#3B82F6"/>
+    <circle cx="824" cy="121" r="7" fill="none" stroke="#22D3EE" stroke-width="2"/>
+    <circle cx="858" cy="52" r="6" fill="#22D3EE">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="742" cy="140" r="5" fill="#0C1631" stroke="#A78BFA" stroke-width="2"/>
+  </g>
+</svg>

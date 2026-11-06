@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-label="Technology ecosystem across experience, services, intelligence and platform layers">
+  <defs>
+    <linearGradient id="ecoBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070D22"/>
+      <stop offset="1" stop-color="#0B1633"/>
+    </linearGradient>
+    <linearGradient id="ecoEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3B82F6"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="960" height="340" rx="16" fill="url(#ecoBg)"/>
+  <rect x="1" y="1" width="958" height="338" rx="15" fill="none" stroke="#22304F" stroke-width="1.5"/>
+
+  <text x="36" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="4" fill="#22D3EE">TECHNOLOGY ECOSYSTEM</text>
+  <text x="924" y="44" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="3" fill="#5B6B8C">FIG. 02</text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <!-- layer 1 -->
+    <rect x="36" y="66" width="888" height="56" rx="10" fill="#0C1631" stroke="#22304F"/>
+    <rect x="36" y="66" width="5" height="56" fill="#3B82F6"/>
+    <text x="60" y="100" font-size="14" letter-spacing="2" fill="#7E8DB0">L1 · EXPERIENCE</text>
+    <text x="908" y="100" text-anchor="end" font-size="13" letter-spacing="1" fill="#C7D3EA">React · TypeScript · Vite · React Native · Kotlin · SwiftUI</text>
+    <!-- layer 2 -->
+    <rect x="36" y="132" width="888" height="56" rx="10" fill="#0C1631" stroke="#22304F"/>
+    <rect x="36" y="132" width="5" height="56" fill="#58A6FF"/>
+    <text x="60" y="166" font-size="14" letter-spacing="2" fill="#7E8DB0">L2 · SERVICES</text>
+    <text x="908" y="166" text-anchor="end" font-size="13" letter-spacing="1" fill="#C7D3EA">Java · Spring Boot · Node.js · Express · FastAPI</text>
+    <!-- layer 3 -->
+    <rect x="36" y="198" width="888" height="56" rx="10" fill="#0C1631" stroke="#22304F"/>
+    <rect x="36" y="198" width="5" height="56" fill="#22D3EE"/>
+    <text x="60" y="232" font-size="14" letter-spacing="2" fill="#7E8DB0">L3 · INTELLIGENCE</text>
+    <text x="908" y="232" text-anchor="end" font-size="13" letter-spacing="1" fill="#C7D3EA">Python · YOLOv8 · OpenCV · model routing · telemetry</text>
+    <!-- layer 4 -->
+    <rect x="36" y="264" width="888" height="56" rx="10" fill="#0C1631" stroke="#22304F"/>
+    <rect x="36" y="264" width="5" height="56" fill="#A78BFA"/>
+    <text x="60" y="298" font-size="14" letter-spacing="2" fill="#7E8DB0">L4 · PLATFORM</text>
+    <text x="908" y="298" text-anchor="end" font-size="13" letter-spacing="1" fill="#C7D3EA">PostgreSQL · MongoDB · Docker · AWS · GitHub Actions</text>
+  </g>
+</svg>

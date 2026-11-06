@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="400" viewBox="0 0 960 400" role="img" aria-label="Systems diagram: perception, services, experience and platform orbiting a reliable product surface">
+  <defs>
+    <linearGradient id="archBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070D22"/>
+      <stop offset="1" stop-color="#0B1633"/>
+    </linearGradient>
+    <radialGradient id="archGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="archSig" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3B82F6"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="960" height="400" rx="16" fill="url(#archBg)"/>
+  <ellipse cx="480" cy="210" rx="330" ry="180" fill="url(#archGlow)"/>
+  <rect x="1" y="1" width="958" height="398" rx="15" fill="none" stroke="#22304F" stroke-width="1.5"/>
+
+  <text x="36" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="4" fill="#22D3EE">HOW I THINK IN SYSTEMS</text>
+  <text x="924" y="46" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="3" fill="#5B6B8C">FIG. 01</text>
+
+  <!-- links -->
+  <g stroke="url(#archSig)" stroke-width="1.5" stroke-dasharray="6 6" opacity="0.8">
+    <line x1="480" y1="140" x2="480" y2="196">
+      <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="330" y1="230" x2="386" y2="230">
+      <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="574" y1="230" x2="630" y2="230">
+      <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="480" y1="264" x2="480" y2="306">
+      <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.6s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- center -->
+  <rect x="386" y="196" width="188" height="68" rx="12" fill="#0C1631" stroke="#22D3EE" stroke-width="1.5"/>
+  <text x="480" y="224" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="2" fill="#F2F6FD">PRODUCT SURFACE</text>
+  <text x="480" y="246" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="1" fill="#8B98B8">reliable · observable</text>
+
+  <!-- nodes -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <rect x="368" y="72" width="224" height="68" rx="12" fill="#0C1631" stroke="#A78BFA" stroke-width="1.5"/>
+    <text x="480" y="99" text-anchor="middle" font-size="15" letter-spacing="2" fill="#F2F6FD">PERCEPTION</text>
+    <text x="480" y="121" text-anchor="middle" font-size="12" letter-spacing="1" fill="#8B98B8">Python · YOLOv8 · OpenCV</text>
+
+    <rect x="76" y="196" width="254" height="68" rx="12" fill="#0C1631" stroke="#22D3EE" stroke-width="1.5"/>
+    <text x="203" y="223" text-anchor="middle" font-size="15" letter-spacing="2" fill="#F2F6FD">INTELLIGENCE</text>
+    <text x="203" y="245" text-anchor="middle" font-size="12" letter-spacing="1" fill="#8B98B8">AI services · routing</text>
+
+    <rect x="630" y="196" width="254" height="68" rx="12" fill="#0C1631" stroke="#3B82F6" stroke-width="1.5"/>
+    <text x="757" y="223" text-anchor="middle" font-size="15" letter-spacing="2" fill="#F2F6FD">EXPERIENCE</text>
+    <text x="757" y="245" text-anchor="middle" font-size="12" letter-spacing="1" fill="#8B98B8">React · TypeScript · Mobile</text>
+
+    <rect x="348" y="306" width="264" height="68" rx="12" fill="#0C1631" stroke="#3B82F6" stroke-width="1.5"/>
+    <text x="480" y="333" text-anchor="middle" font-size="15" letter-spacing="2" fill="#F2F6FD">PLATFORM</text>
+    <text x="480" y="355" text-anchor="middle" font-size="12" letter-spacing="1" fill="#8B98B8">Docker · AWS · CI/CD</text>
+  </g>
+</svg>
